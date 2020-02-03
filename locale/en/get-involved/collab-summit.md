@@ -25,5 +25,4 @@ discussions, and then dive into breakout sessions.
 
 We'd love to see you at Collab Summit! Check out the [Summit repo](https://github.com/nodejs/summit)
 for upcoming and past Collab Summits and have a look at the
-[issues filed](https://github.com/nodejs/summit/issues) that share what
-individual working groups and committees are looking to discuss in-person.
+[issues filed](https://github.com/nodejs/summit/issues) 
